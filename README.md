@@ -1,7 +1,7 @@
 ![logo](https://github.com/Nikhil-Misal-24/Nikhil-Misal-24/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Misal</h1>
 <h3 align="center">A passionate Hardware Developer & PCB Designer from India</h3>
-<img align="right" alt="electronics" width="400" src="https://cdn.dribbble.com/userupload/25266435/file/original-80b47ebe181ae73b3afb9098bdaf594a.gif">
+<img align="right" alt="electronics" width="400" src="[https://cdn.dribbble.com/userupload/25266435/file/original-80b47ebe181ae73b3afb9098bdaf594a.gif](https://cdn.dribbble.com/userupload/25266435/file/original-80b47ebe181ae73b3afb9098bdaf594a.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-misal-24&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-misal-24" /> </p>
 
